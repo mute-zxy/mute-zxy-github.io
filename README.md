@@ -1,2 +1,2 @@
-# mute-zxy-github.io
+# mute-zxy.github.io
 个人博客
